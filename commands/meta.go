@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 	"github.com/protolambda/ask"
-	"github.com/protolambda/zcli/spec_types"
-	"github.com/protolambda/zcli/util"
+	"github.com/zilm13/zcli/spec_types"
+	"github.com/zilm13/zcli/util"
 	"github.com/zilm13/zrnt/eth2/beacon/common"
 )
 

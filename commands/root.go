@@ -3,9 +3,9 @@ package commands
 import (
 	"context"
 	"fmt"
-	"github.com/protolambda/zcli/spec_types"
-	"github.com/protolambda/zcli/util"
 	"github.com/protolambda/ztyp/tree"
+	"github.com/zilm13/zcli/spec_types"
+	"github.com/zilm13/zcli/util"
 )
 
 type RootCmd struct{}

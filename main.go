@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 	"github.com/protolambda/ask"
-	"github.com/protolambda/zcli/commands"
+	"github.com/zilm13/zcli/commands"
 	"os"
 )
 
