@@ -1,4 +1,4 @@
-module github.com/protolambda/zcli
+module github.com/zilm13/zcli
 
 go 1.16
 
