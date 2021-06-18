@@ -6,7 +6,7 @@ import (
 	"github.com/protolambda/ask"
 	"github.com/protolambda/zcli/spec_types"
 	"github.com/protolambda/zcli/util"
-	"github.com/protolambda/zrnt/eth2/beacon/common"
+	"github.com/zilm13/zrnt/eth2/beacon/common"
 )
 
 type MetaCmd struct{}

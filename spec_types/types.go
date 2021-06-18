@@ -1,12 +1,12 @@
 package spec_types
 
 import (
-	"github.com/protolambda/zrnt/eth2/beacon/altair"
-	"github.com/protolambda/zrnt/eth2/beacon/common"
-	"github.com/protolambda/zrnt/eth2/beacon/merge"
-	"github.com/protolambda/zrnt/eth2/beacon/phase0"
-	"github.com/protolambda/zrnt/eth2/beacon/sharding"
 	"github.com/protolambda/ztyp/view"
+	"github.com/zilm13/zrnt/eth2/beacon/altair"
+	"github.com/zilm13/zrnt/eth2/beacon/common"
+	"github.com/zilm13/zrnt/eth2/beacon/merge"
+	"github.com/zilm13/zrnt/eth2/beacon/phase0"
+	"github.com/zilm13/zrnt/eth2/beacon/sharding"
 )
 
 type SpecType struct {

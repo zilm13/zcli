@@ -7,12 +7,12 @@ import (
 	"github.com/protolambda/ask"
 	"github.com/protolambda/zcli/spec_types"
 	"github.com/protolambda/zcli/util"
-	"github.com/protolambda/zrnt/eth2/beacon"
-	"github.com/protolambda/zrnt/eth2/beacon/altair"
-	"github.com/protolambda/zrnt/eth2/beacon/common"
-	"github.com/protolambda/zrnt/eth2/beacon/merge"
-	"github.com/protolambda/zrnt/eth2/beacon/phase0"
-	"github.com/protolambda/zrnt/eth2/beacon/sharding"
+	"github.com/zilm13/zrnt/eth2/beacon"
+	"github.com/zilm13/zrnt/eth2/beacon/altair"
+	"github.com/zilm13/zrnt/eth2/beacon/common"
+	"github.com/zilm13/zrnt/eth2/beacon/merge"
+	"github.com/zilm13/zrnt/eth2/beacon/phase0"
+	"github.com/zilm13/zrnt/eth2/beacon/sharding"
 	"time"
 )
 

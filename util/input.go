@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/protolambda/zrnt/eth2/beacon/common"
+	"github.com/zilm13/zrnt/eth2/beacon/common"
 	"github.com/protolambda/ztyp/codec"
 	"gopkg.in/yaml.v3"
 	"io/ioutil"

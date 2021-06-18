@@ -3,7 +3,7 @@ package commands
 import (
 	"context"
 	"fmt"
-	"github.com/protolambda/zrnt/eth2"
+	"github.com/zilm13/zrnt/eth2"
 )
 
 type VersionCmd struct {
