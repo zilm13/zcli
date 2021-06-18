@@ -24,6 +24,8 @@ github.com/zilm13/zrnt v0.16.2-0.20210618094032-084a3d40e495 h1:Qf318Pn0e+SR1I1+
 github.com/zilm13/zrnt v0.16.2-0.20210618094032-084a3d40e495/go.mod h1:0Gh/8oc9YWX1PjzFIOxHS5QNDrJ0KGslefNtwx6B1Us=
 github.com/zilm13/zrnt v0.16.2-0.20210618115936-eaa12debeb2f h1:PL3FHc+UbyI+0SA8VN8DhXn5Wj/rmSAG35f5uRs6+4E=
 github.com/zilm13/zrnt v0.16.2-0.20210618115936-eaa12debeb2f/go.mod h1:0Gh/8oc9YWX1PjzFIOxHS5QNDrJ0KGslefNtwx6B1Us=
+github.com/zilm13/zrnt v0.16.2-0.20210618123242-1fb2e8924078 h1:etPeoReoVO4bIt3/LCglZQvuQIm8cJ2ldoVPTbbs2UQ=
+github.com/zilm13/zrnt v0.16.2-0.20210618123242-1fb2e8924078/go.mod h1:0Gh/8oc9YWX1PjzFIOxHS5QNDrJ0KGslefNtwx6B1Us=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 h1:tQIYjPdBoyREyB9XMu+nnTclpTYkz2zFM+lzLJFO4gQ=
