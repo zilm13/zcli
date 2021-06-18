@@ -142,6 +142,7 @@ var MergeSpecTypes = map[string]SpecType{
 	"ExecutionPayloadHeader": {func(spec *common.Spec) common.SSZObj { return new(common.ExecutionPayloadHeader) }, func(spec *common.Spec) view.TypeDef { return common.ExecutionPayloadHeaderType }},
 	"PayloadTransactions":    {func(spec *common.Spec) common.SSZObj { return spec.Wrap(new(common.PayloadTransactions)) }, func(spec *common.Spec) view.TypeDef { return common.PayloadTransactionsType }},
 	"LogsBloom":              {func(spec *common.Spec) common.SSZObj { return new(common.LogsBloom) }, func(spec *common.Spec) view.TypeDef { return common.LogsBloomType }},
+	"Withdrawal":             {func(spec *common.Spec) common.SSZObj { return new(phase0.Withdrawal) }, func(spec *common.Spec) view.TypeDef { return phase0.WithdrawalType }},
 }
 
 var ShardingSpecTypes = map[string]SpecType{
